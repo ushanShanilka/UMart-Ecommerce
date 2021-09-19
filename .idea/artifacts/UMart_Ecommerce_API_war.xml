@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="UMart-Ecommerce API:war">
+    <output-path>$PROJECT_DIR$/UMart-Ecommerce API/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>UMart-Ecommerce API</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="umart-0.0.1.war">
+      <element id="artifact" artifact-name="UMart-Ecommerce API:war exploded" />
+    </root>
+  </artifact>
+</component>
